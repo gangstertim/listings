@@ -11,3 +11,5 @@
 - navigate into the re_notices directory
 - activate virtualenv by running
 `$ source bin/activate`
+— from /listings/listings run
+`scrapy crawl listingbot`
